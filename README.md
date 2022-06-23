@@ -18,8 +18,8 @@
 
 # Home Page
 
-<img src="1.PNG">
+<img src="1.png">
 
 # Detail & Update Page
 
-<img src="2.PNG">
+<img src="2.png">
